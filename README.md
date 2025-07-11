@@ -1,7 +1,7 @@
 # 🚀 Welcome to Nikhil Narang's Code Universe
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FFD5&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Code.+Create.+Conquer.;Building+AI-Powered+Experiences.;Ready+for+the+Next+Big+Thing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=3000&pause=1000&color=00FFD5&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Code.+Create.+Conquer.;Building+AI-Powered+Experiences.;Ready+for+the+Next+Big+Thing!" alt="Typing SVG" />
 </div>
 
 ---
