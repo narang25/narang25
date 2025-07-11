@@ -1,61 +1,61 @@
-# 🚀 Welcome to Nikhil Narang’s Command Center
+# 🚀 Welcome to Nikhil Narang’s DevVerse
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=00FFD5&center=true&vCenter=true&multiline=true&width=1200&height=100&lines=Engineer.+Innovator.+Builder+of+Futures.;AI+Dreams+Meet+Code+Realities.;Let's+Create+the+Next+Big+Thing+Together" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FFD5&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Engineer.+Innovator.+Creator+at+Heart.;AI+Dreams+Meet+Code+Reality.;Let’s+Build+Something+Extraordinary" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🧠 BTech student | Tech Generalist | Creator at heart  
-- 💡 Building **Try-On-Me** – AI-powered virtual try-on with 3D avatars  
-- ⚡ Previous: Full-stack **Uber Clone**, 3D Portfolio, GSoC aspirant  
-- 🧱 Learning: MERN | DevOps | CP | DSA | AI | Startup Game  
-- 🎯 Vision: Build a voice-controlled, emotion-aware AI assistant (like J.A.R.V.I.S)
+- 🎓 BTech Student | Full-Stack Developer  
+- 🚗 Built a real-time **Uber Clone** with Google Maps, Socket.io, JWT  
+- 🧠 Working on **Try-On-Me** – a virtual try-on experience with 3D avatars  
+- 💬 Exploring AI + DevOps + DSA + Competitive Programming  
+- 🦾 Inspired by Iron Man & building the future one repo at a time!
 
 ---
 
-### 🛠️ Tech Arsenal
+## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,ts,python,git,github,threejs,docker,vercel,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,threejs,python,figma,git,github,docker,vercel" />
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilnarang&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilnarang&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=narang25&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narang25&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-### 🌀 Contribution Tracker
+## 🔥 Contribution Snake
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nikhilnarang/nikhilnarang/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/nikhilnarang/nikhilnarang/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake" src="https://github.com/nikhilnarang/nikhilnarang/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/narang25/narang25/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/narang25/narang25/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/narang25/narang25/output/github-contribution-grid-snake-dark.svg" />
   </picture>
   <br />
-  <i>Dev time bending like space-time...</i>
+  <i>Chrono Serpent devours time, one commit at a time...</i>
 </div>
 
 ---
 
-### 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilnarang&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=narang25&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" />
 </div>
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
   <a href="https://linkedin.com/in/nikhilnarang" target="_blank">
@@ -68,7 +68,7 @@
 
 ---
 
-### 🔮 Random Quote for You
+## ✨ Random Wisdom
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
